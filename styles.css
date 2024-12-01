@@ -1,0 +1,29 @@
+*{
+    background-color: lightyellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: x-large;
+    color: slategrey;
+    background-color: lightyellow;
+}
+
+p{
+    font-size: medium;
+    color: darkslategray;
+    background-color: lightyellow;
+}
+
+ul, ol{
+    font-size: medium;
+    color: darkslategray;
+    background-color: lightyellow;
+}
+
+h2{
+    font-size: large;
+    font-style: italic;
+    color: slategrey;
+    background-color: lightyellow;
+}
